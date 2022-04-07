@@ -15,7 +15,7 @@
     "url": "https://github.com/holidayextras/jsonapi-client.git"
   },
   "dependencies": {
-    "async": "1.5.2",
+    "async": "3.2.2",
     "object-assign": "4.1.0",
     "promise": "7.1.1",
     "qs": "^6.2.0",
